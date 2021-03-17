@@ -1,2 +1,1 @@
-# first
-just to start
+this is just to have experience about git and github
